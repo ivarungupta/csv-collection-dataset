@@ -1,0 +1,271 @@
+Sno,State/UnionTerritory,ConfirmedIndianNational,ConfirmedForeignNational,Cured,Deaths
+1,Kerala,1,0,0,0
+2,Kerala,1,0,0,0
+3,Kerala,2,0,0,0
+4,Kerala,3,0,0,0
+5,Kerala,3,0,0,0
+6,Kerala,3,0,0,0
+7,Kerala,3,0,0,0
+8,Kerala,3,0,0,0
+9,Kerala,3,0,0,0
+10,Kerala,3,0,0,0
+11,Kerala,3,0,0,0
+12,Kerala,3,0,0,0
+13,Kerala,3,0,0,0
+14,Kerala,3,0,0,0
+15,Kerala,3,0,0,0
+16,Kerala,3,0,0,0
+17,Kerala,3,0,0,0
+18,Kerala,3,0,0,0
+19,Kerala,3,0,0,0
+20,Kerala,3,0,0,0
+21,Kerala,3,0,0,0
+22,Kerala,3,0,0,0
+23,Kerala,3,0,0,0
+24,Kerala,3,0,0,0
+25,Kerala,3,0,0,0
+26,Kerala,3,0,0,0
+27,Kerala,3,0,0,0
+28,Kerala,3,0,0,0
+29,Kerala,3,0,0,0
+30,Kerala,3,0,0,0
+31,Kerala,3,0,0,0
+32,Kerala,3,0,0,0
+33,Telengana,1,0,0,0
+34,Kerala,3,0,0,0
+35,Delhi,1,0,0,0
+36,Telengana,1,0,0,0
+37,Rajasthan,0,1,0,0
+38,Kerala,3,0,3,0
+39,Delhi,1,0,0,0
+40,Uttar Pradesh,6,0,0,0
+41,Kerala,3,0,3,0
+42,Haryana,0,2,0,0
+43,Delhi,1,0,0,0
+44,Telengana,1,0,0,0
+45,Rajasthan,1,14,0,0
+46,Delhi,2,0,0,0
+47,Haryana,0,2,0,0
+48,Kerala,3,0,3,0
+49,Rajasthan,1,14,0,0
+50,Telengana,1,0,0,0
+51,Uttar Pradesh,7,0,0,0
+52,Delhi,3,0,0,0
+53,Haryana,0,2,0,0
+54,Kerala,3,0,3,0
+55,Rajasthan,1,14,0,0
+56,Uttar Pradesh,7,0,0,0
+57,Telengana,1,0,0,0
+58,Kerala,3,0,3,0
+59,Uttar Pradesh,7,0,0,0
+60,Union Territory of Ladakh,2,0,0,0
+61,Telengana,1,0,0,0
+62,Tamil Nadu,1,0,0,0
+63,Delhi,3,0,0,0
+64,Haryana,0,2,0,0
+65,Rajasthan,1,14,0,0
+66,Union Territory of Ladakh,2,0,0,0
+67,Telengana,1,0,0,0
+68,Tamil Nadu,1,0,0,0
+69,Rajasthan,1,14,0,0
+70,Kerala,8,0,3,0
+71,Haryana,0,2,0,0
+72,Delhi,3,0,0,0
+73,Uttar Pradesh,7,0,0,0
+74,Union Territory of Ladakh,2,0,0,0
+75,Karnataka,1,0,0,0
+76,Kerala,9,0,3,0
+77,Maharashtra,2,0,0,0
+78,Punjab,1,0,0,0
+79,Rajasthan,1,14,0,0
+80,Tamil Nadu,1,0,0,0
+81,Telengana,1,0,0,0
+82,Union Territory of Jammu and Kashmir,1,0,0,0
+83,Uttar Pradesh,7,0,0,0
+84,Haryana,0,2,0,0
+85,Delhi,4,0,0,0
+86,Uttar Pradesh,7,0,0,0
+87,Union Territory of Ladakh,2,0,0,0
+88,Delhi,4,0,0,0
+89,Haryana,0,2,0,0
+90,Karnataka,4,0,0,0
+91,Kerala,15,0,3,0
+92,Maharashtra,5,0,0,0
+93,Punjab,1,0,0,0
+94,Rajasthan,1,14,0,0
+95,Tamil Nadu,1,0,0,0
+96,Telengana,1,0,0,0
+97,Union Territory of Jammu and Kashmir,1,0,0,0
+98,Maharashtra,2,0,0,0
+99,Delhi,5,0,0,0
+100,Haryana,0,14,0,0
+101,Kerala,17,0,3,0
+102,Rajasthan,1,2,0,0
+103,Telengana,1,0,0,0
+104,Uttar Pradesh,9,0,0,0
+105,Union Territory of Ladakh,2,0,0,0
+106,Tamil Nadu,1,0,0,0
+107,Union Territory of Jammu and Kashmir,1,0,0,0
+108,Punjab,1,0,0,0
+109,Karnataka,4,0,0,0
+110,Delhi,6,0,0,0
+111,Haryana,0,14,0,0
+112,Kerala,17,0,3,0
+113,Rajasthan,1,2,0,0
+114,Telengana,1,0,0,0
+115,Uttar Pradesh,10,1,0,0
+116,Union Territory of Ladakh,3,0,0,0
+117,Tamil Nadu,1,0,0,0
+118,Union Territory of Jammu and Kashmir,1,0,0,0
+119,Punjab,1,0,0,0
+120,Karnataka,4,0,0,0
+121,Maharashtra,11,0,0,0
+122,Andhra Pradesh,1,0,0,0
+123,Delhi,6,0,0,0
+124,Haryana,0,14,0,0
+125,Kerala,19,0,3,0
+126,Rajasthan,1,2,0,0
+127,Telengana,1,0,0,0
+128,Uttar Pradesh,10,1,0,0
+129,Union Territory of Ladakh,3,0,0,0
+130,Tamil Nadu,1,0,0,0
+131,Union Territory of Jammu and Kashmir,1,0,0,0
+132,Punjab,1,0,0,0
+133,Karnataka,6,0,0,1
+134,Maharashtra,14,0,0,0
+135,Andhra Pradesh,1,0,0,0
+136,Delhi,7,0,1,1
+137,Haryana,0,14,0,0
+138,Kerala,19,0,3,0
+139,Rajasthan,1,2,1,0
+140,Telengana,1,0,0,0
+141,Uttar Pradesh,11,1,5,0
+142,Union Territory of Ladakh,3,0,0,0
+143,Tamil Nadu,1,0,0,0
+144,Union Territory of Jammu and Kashmir,2,0,0,0
+145,Punjab,1,0,0,0
+146,Karnataka,6,0,0,1
+147,Maharashtra,14,0,0,0
+148,Andhra Pradesh,1,0,0,0
+149,Andhra Pradesh,1,0,0,0
+150,Delhi,7,0,2,1
+151,Haryana,0,14,0,0
+152,Karnataka,6,0,0,1
+153,Kerala,22,0,3,0
+154,Maharashtra,32,0,0,0
+155,Punjab,1,0,0,0
+156,Rajasthan,2,2,3,0
+157,Tamil Nadu,1,0,0,0
+158,Telengana,3,0,1,0
+159,Union Territory of Jammu and Kashmir,2,0,0,0
+160,Union Territory of Ladakh,3,0,0,0
+161,Uttar Pradesh,12,1,4,0
+162,Uttarakhand,1,0,0,0
+163,Andhra Pradesh,1,0,0,0
+164,Delhi,7,0,2,1
+165,Haryana,0,14,0,0
+166,Karnataka,6,0,0,1
+167,Kerala,23,0,3,0
+168,Maharashtra,32,0,0,0
+169,Odisha,1,0,0,0
+170,Punjab,1,0,0,0
+171,Rajasthan,2,2,3,0
+172,Tamil Nadu,1,0,0,0
+173,Telengana,3,0,1,0
+174,Union Territory of Jammu and Kashmir,3,0,0,0
+175,Union Territory of Ladakh,4,0,0,0
+176,Uttar Pradesh,12,1,4,0
+177,Uttarakhand,1,0,0,0
+178,Andhra Pradesh,1,0,0,0
+179,Delhi,8,0,2,1
+180,Haryana,1,14,0,0
+181,Karnataka,11,0,0,1
+182,Kerala,24,2,3,0
+183,Maharashtra,36,3,0,1
+184,Odisha,1,0,0,0
+185,Punjab,1,0,0,0
+186,Rajasthan,2,2,3,0
+187,Tamil Nadu,1,0,0,0
+188,Telengana,3,2,1,0
+189,Union Territory of Jammu and Kashmir,3,0,0,0
+190,Union Territory of Ladakh,6,0,0,0
+191,Uttar Pradesh,14,1,5,0
+192,Uttarakhand,1,0,0,0
+193,Andhra Pradesh,1,0,0,0
+194,Delhi,9,1,2,1
+195,Haryana,3,14,0,0
+196,Karnataka,11,0,0,1
+197,Kerala,25,2,3,0
+198,Maharashtra,39,3,0,1
+199,Odisha,1,0,0,0
+200,Pondicherry,1,0,0,0
+201,Punjab,1,0,0,0
+202,Rajasthan,2,2,3,0
+203,Tamil Nadu,1,0,0,0
+204,Telengana,4,2,1,0
+205,Union Territory of Jammu and Kashmir,3,0,0,0
+206,Union Territory of Ladakh,8,0,0,0
+207,Uttar Pradesh,15,1,5,0
+208,Uttarakhand,1,0,0,0
+209,West Bengal,1,0,0,0
+210,Andhra Pradesh,2,0,0,0
+211,Chattisgarh,1,0,0,0
+212,Delhi,11,1,3,1
+213,Haryana,3,14,0,0
+214,Karnataka,14,0,0,1
+215,Kerala,25,2,3,0
+216,Maharashtra,44,3,0,1
+217,Odisha,1,0,0,0
+218,Pondicherry,1,0,0,0
+219,Punjab,2,0,0,1
+220,Rajasthan,5,2,3,0
+221,Tamil Nadu,2,0,1,0
+222,Telengana,4,2,1,0
+223,Union Territory of Chandigarh,1,0,0,0
+224,Union Territory of Jammu and Kashmir,4,0,0,0
+225,Union Territory of Ladakh,8,0,0,0
+226,Uttar Pradesh,18,1,9,0
+227,Uttarakhand,1,0,0,0
+228,West Bengal,1,0,0,0
+229,Andhra Pradesh,3,0,0,0
+230,Chhattisgarh,1,0,0,0
+231,Delhi,16,1,5,1
+232,Gujarat,5,0,0,0
+233,Haryana,3,14,0,0
+234,Karnataka,15,0,1,1
+235,Kerala,26,2,3,0
+236,Maharashtra,49,3,0,1
+237,Odisha,2,0,0,0
+238,Puducherry,1,0,0,0
+239,Punjab,2,0,0,1
+240,Rajasthan,15,2,3,0
+241,Tamil Nadu,3,0,1,0
+242,Telengana,8,9,1,0
+243,Union Territory of Chandigarh,1,0,0,0
+244,Union Territory of Jammu and Kashmir,4,0,0,0
+245,Union Territory of Ladakh,10,0,0,0
+246,Uttar Pradesh,22,1,9,0
+247,Uttarakhand,3,0,0,0
+248,West Bengal,2,0,0,0
+249,Andhra Pradesh,3,0,0,0
+250,Chhattisgarh,1,0,0,0
+251,Delhi,25,1,5,1
+252,Gujarat,7,0,0,0
+253,Haryana,3,14,0,0
+254,Himachal Pradesh,2,0,0,0
+255,Karnataka,15,0,1,1
+256,Kerala,33,7,3,0
+257,Madhya Pradesh,4,0,0,0
+258,Maharashtra,60,3,0,1
+259,Odisha,2,0,0,0
+260,Puducherry,1,0,0,0
+261,Punjab,13,0,0,1
+262,Rajasthan,15,2,3,0
+263,Tamil Nadu,3,0,1,0
+264,Telengana,10,11,1,0
+265,Chandigarh,1,0,0,0
+266,Jammu and Kashmir,4,0,0,0
+267,Ladakh,13,0,0,0
+268,Uttar Pradesh,23,1,9,0
+269,Uttarakhand,3,0,0,0
+270,West Bengal,3,0,0,0
